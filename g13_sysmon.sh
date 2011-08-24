@@ -67,7 +67,7 @@ echo "Process: $proc_2"
 }
 
 function get_temp {
-if [ "$(which sensors4)" == "" ]
+if [ "$(which sensors)" == "" ]
 then
 temp_2=$(echo "99")
 echo ""
