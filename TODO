@@ -2,6 +2,8 @@ My Todolist
 ===========
 
 [x] Create a System Monitor Script (Uptime,Temp,etc...). 
+[x] Create a 7-Segment Clock. 
+[_] Create a 7-Segment Countdown. 
 [_] Create an USV (apcaccess daemon) Bashscript with Battery Symbols. 
 [_] ...
 
